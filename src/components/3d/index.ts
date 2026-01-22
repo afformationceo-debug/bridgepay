@@ -13,3 +13,10 @@ export { FeatureCard3D, FloatingIcon, AnimatedCounter } from './shared/FeatureCa
 // Dashboard components
 export { TransactionStream3D } from './dashboard/TransactionStream3D';
 export { RevenueChart3D } from './dashboard/RevenueChart3D';
+
+// Agency components
+export { TierPyramid3D } from './agency/TierPyramid3D';
+export { CommissionFlow3D } from './agency/CommissionFlow3D';
+
+// Admin components
+export { SystemStats3D } from './admin/SystemStats3D';
