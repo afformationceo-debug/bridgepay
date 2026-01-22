@@ -9,3 +9,7 @@ export { PaymentFlowDemo3D, PaymentFlowDemo2D } from './landing/PaymentFlowDemo3
 // Shared components
 export { ParticleBackground, GradientParticles, ParticleConnections } from './shared/ParticleBackground';
 export { FeatureCard3D, FloatingIcon, AnimatedCounter } from './shared/FeatureCard3D';
+
+// Dashboard components
+export { TransactionStream3D } from './dashboard/TransactionStream3D';
+export { RevenueChart3D } from './dashboard/RevenueChart3D';
